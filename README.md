@@ -1,2 +1,2 @@
 # SportsBuddy
-You can find sportmate or gamebuddy easily
+ You can find sportmate
